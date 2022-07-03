@@ -1,4 +1,4 @@
-# git_test
+# html_first_site
 "My first GitHub repo! Hello Odin!"
 In this Introduction to HTML and CSS project I carried out the following objectives:
 
